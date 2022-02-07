@@ -1,0 +1,363 @@
+bike_name,cost,city,book_at,website
+,,,,
+Activa 3G,58,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa,58,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Splendor,58,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Passion Pro,58,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Passion X Pro,60,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa,60,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Avenger Street 220,70,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 150,84,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Bajaj Dominar,100,ahmedabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa,345,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Splendor,345,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Passion Pro,345,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa,480,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Navi,500,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Passion X Pro,500,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 3G,523,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 150,840,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Yamaha FZ,855,ahmedabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Passion Pro,"3,450.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Activa,"3,450.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Splendor,"3,450.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Passion X Pro,"6,500.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Activa,"7,200.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 150,"9,000.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Activa 3G,"10,000.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Navi,"10,000.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+FZ,"11,400.00",ahmedabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Glamour,25,Delhi,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa 125,35,Delhi,hour,https:www.rentrip.inrent-bike
+,,,,
+CBF Stunner,35,Delhi,hour,https:www.rentrip.inrent-bike
+,,,,
+Avenger Cruise 220,52,Delhi,hour,https:www.rentrip.inrent-bike
+,,,,
+Electra 350,79,Delhi,hour,https:www.rentrip.inrent-bike
+,,,,
+Himalayan,99,Delhi,hour,https:www.rentrip.inrent-bike
+,,,,
+Thunderbird 500,152,Delhi,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa 4G,40,Bangalore,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa 5G,40,Bangalore,hour,https:www.rentrip.inrent-bike
+,,,,
+Enfield Thunderbird 350,150,Bangalore,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa 4G,400,Bangalore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 5G,400,Bangalore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Thunderbird 350,"1,000.00",Bangalore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,"1,000.00",Bangalore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Himalayan,"1,500.00",Bangalore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 4G,"8,000.00",Bangalore,monthly,https:www.rentrip.inrent-bike
+,,,,
+Activa 5G,"8,000.00",Bangalore,monthly,https:www.rentrip.inrent-bike
+,,,,
+Enfield Thunderbird 350,"20,000.00",Bangalore,monthly,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,"23,000.00",Bangalore,monthly,https:www.rentrip.inrent-bike
+,,,,
+Platina DTS-I,70,aurangabad,hour,https:www.rentrip.inrent-bike
+,,,,
+standard 350,150,aurangabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa 3G,50,aurangabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Platina DTS-I,600,aurangabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Access 125,600,aurangabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+standard 350,"1,250.00",aurangabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 3G,500,aurangabad,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 4G,625,Amritsar,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+HONDA ACTIVA 3G,625,Amritsar,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,"1,000.00",Amritsar,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 4G,"8,000.00",Amritsar,monthly,https:www.rentrip.inrent-bike
+,,,,
+HONDA ACTIVA 3G,"8,000.00",Amritsar,monthly,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,"18,000.00",Amritsar,monthly,https:www.rentrip.inrent-bike
+,,,,
+Jupiter,449,Bhopal,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 3G,449,Bhopal,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Splendor,499,Bhopal,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Discover,499,Bhopal,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Passion Pro,499,Bhopal,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Thunderbird,999,Bhopal,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Splendor Plus,59,bhubaneswar,hour,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 220,85,bhubaneswar,hour,https:www.rentrip.inrent-bike
+,,,,
+Splendor Plus,650,bhubaneswar,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 220,950,bhubaneswar,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Splendor Plus,"10,000.00",bhubaneswar,monthly,https:www.rentrip.inrent-bike
+,,,,
+Honda Activa,600,Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 5G,700,Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,"1,200.00",Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,"1,300.00",Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Classic 500,"1,500.00",Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+standard 500,"1,500.00",Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Himalayan,"1,600.00",Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+YZF-R3,"2,200.00",Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 180,800,Chandigarh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa,100,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa,100,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+ACTIVA 3G,100,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+Dio,100,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+Rodeo UZO 125,100,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+CENTURA,100,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+Royal Enfield classic 350 Black 2017,145,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+Alpha,150,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+RAY,150,chennai,hour,https:www.rentrip.inrent-bike
+,,,,
+TVS WEGO,399,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Rodeo UZO 125,399,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa,400,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Dio,400,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Alpha,400,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa 3G,400,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Passion Pro,400,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Alpha,440,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa,450,chennai,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Activa,"4,500.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+Activa,"4,500.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+Dio,"4,500.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+Alpha,"4,500.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+Alpha,"4,500.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+RAY,"5,000.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+Rodeo UZO 125,"5,400.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+CENTURA,"5,500.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+V15,"5,500.00",chennai,monthly,https:www.rentrip.inrent-bike
+,,,,
+Tvs star city,70,Coimbatore,hour,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 150,80,Coimbatore,hour,https:www.rentrip.inrent-bike
+,,,,
+Pulsar NS 200 Black,99,Coimbatore,hour,https:www.rentrip.inrent-bike
+,,,,
+Tvs star city,550,Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Passion Pro,600,Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar NS 200 Black,900,Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 150,900,Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+FZS,900,Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,"1,500.00",Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Dominar 400,"2,000.00",Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+CT 100,499,Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Dio,500,Coimbatore,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Tvs star city,"10,000.00",Coimbatore,monthly,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 150,"14,000.00",Coimbatore,monthly,https:www.rentrip.inrent-bike
+,,,,
+Pulsar NS 200 Black,"26,999.00",Coimbatore,monthly,https:www.rentrip.inrent-bike
+,,,,
+Pulsar NS 200,700,delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Avenger Street 220,750,delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Avenger 220,800,delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Electra 350,825,delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,900,delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Thunderbird 350,950,delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Duke 200,"1,100.00",delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Standard 500,"1,250.00",delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Himalayan,"1,300.00",delhi--leh,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar RS 200,99,gurgaon,hour,https:www.rentrip.inrent-bike
+,,,,
+Pulsar RS 200,"21,000.00",gurgaon,monthly,https:www.rentrip.inrent-bike
+,,,,
+Maestro Deluxe,35,Hyderabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Glamour,40,Hyderabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 150,50,Hyderabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Bullet,80,Hyderabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Bullet,80,Hyderabad,hour,https:www.rentrip.inrent-bike
+,,,,
+Maestro Deluxe,"6,750.00",Hyderabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Glamour,"12,000.00",Hyderabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 150,"18,000.00",Hyderabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Bullet,"22,000.00",Hyderabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Bullet,"22,000.00",Hyderabad,monthly,https:www.rentrip.inrent-bike
+,,,,
+Avenger Street 180,50,Indore,hour,https:www.rentrip.inrent-bike
+,,,,
+Active 5 G,50,Indore,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa,55,Indore,hour,https:www.rentrip.inrent-bike
+,,,,
+CT 100,55,Indore,hour,https:www.rentrip.inrent-bike
+,,,,
+Jupiter,59,Indore,hour,https:www.rentrip.inrent-bike
+,,,,
+Honda CB shine,65,Indore,hour,https:www.rentrip.inrent-bike
+,,,,
+Thunderbird 350,75,Indore,hour,https:www.rentrip.inrent-bike
+,,,,
+Activa 3G,55,Indore,hour,https:www.rentrip.inrent-bike
+,,,,
+Freedom,30,Jaipur,hour,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 180,50,Jaipur,hour,https:www.rentrip.inrent-bike
+,,,,
+Classic 350,66,Jaipur,hour,https:www.rentrip.inrent-bike
+,,,,
+Thunderbird 350,67,Jaipur,hour,https:www.rentrip.inrent-bike
+,,,,
+Freedom,400,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+HERO Maestro,550,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Honda Activa,550,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Alpha,550,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Honda CD 110 Dream,550,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 180,600,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Bajaj Pulsar 150,770,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Bajaj Avenger 220,880,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Electra 350,990,Jaipur,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+TVS Zest,500,Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Tvs Jupiter,500,Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Splendor ISmart,599,Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Duet,700,Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 220,800,Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+R15 V2,"1,000.00",Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Pulsar N.S 200,"1,000.00",Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Avenger 220,"1,000.00",Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Apache RTR 200,"1,000.00",Kolkata,weeklydaily,https:www.rentrip.inrent-bike
+,,,,
+Splendor ISmart,"6,299.00",Kolkata,monthly,https:www.rentrip.inrent-bike
+,,,,
+Duet,"6,299.00",Kolkata,monthly,https:www.rentrip.inrent-bike
+,,,,
+Tvs Jupiter,"11,700.00",Kolkata,monthly,https:www.rentrip.inrent-bike
+,,,,
+TVS Zest,"16,925.00",Kolkata,monthly,https:www.rentrip.inrent-bike
+,,,,
+Pulsar 220,"22,500.00",Kolkata,monthly,https:www.rentrip.inrent-bike
+,,,,
+R15 V2,"24,300.00",Kolkata,monthly,https:www.rentrip.inrent-bike
+,,,,
+Pulsar N.S 200,"24,300.00",Kolkata,monthly,https:www.rentrip.inrent-bike
+,,,,
+Apache RTR 200,"25,000.00",Kolkata,monthly,https:www.rentrip.inrent-bike
+,,,,
+Thunderbird 350,"26,100.00",Kolkata,monthly,https:www.rentrip.inrent-bike
