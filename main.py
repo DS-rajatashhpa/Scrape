@@ -36,7 +36,7 @@ SERVER = 'smtp.gmail.com'
 PORT = 587
 FROM = 'ds.rajatpiplani@gmail.com'
 TO = 'swapnilgirishpawar@gmail.com'
-PASS = 'Helloworld@14'
+PASS = '*********'
 
 msg = MIMEMultipart()
 
